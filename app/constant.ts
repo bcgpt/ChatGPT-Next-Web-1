@@ -1,5 +1,5 @@
-export const OWNER = "Yidadaa";
-export const REPO = "ChatGPT-Next-Web";
+export const OWNER = "bcgpt";
+export const REPO = "BC ChatGPT Web";
 export const REPO_URL = `/${OWNER}/${REPO}`;
 export const HOME_URL = "https://www.bcgpt.cc";
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
